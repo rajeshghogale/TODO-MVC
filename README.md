@@ -1,5 +1,13 @@
-# todo-backend-express
+# TODO-MVC
 
-This is an example implementation of [moredip's](https://github.com/moredip) [Todo-Backend](http://todo-backend.thepete.net/) API spec, using Node.js and the Express framework.
+frontend folder : react-redux
+backend folder : todo-backend
 
-This example saves TODOs in a PostgreSQL database and uses [node-db-migrate](https://github.com/kunklejr/node-db-migrate) for database migrations. A production instance is running on Heroku at [http://todo-backend-express.herokuapp.com](http://todo-backend-express.herokuapp.com).
+Please run npm i for nstalling dependancies
+
+# Task implemented
+1. created ui(todo template) + backend(from scratch)
+2. integrated ui + backend (CRUD) operations
+3. created backend to integrate with mysql
+4. modified ui code to read from ui istead of static redux
+4. modified ui template little bit
